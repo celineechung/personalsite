@@ -1,0 +1,22 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celineechung/personalsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celineechung/personalsite/issues"
+  },
+  "homepage": "https://github.com/celineechung/personalsite#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
